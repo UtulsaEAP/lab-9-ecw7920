@@ -3,8 +3,12 @@ def fibonacci(n):
     #write your code here
     if start_num < 0:
         return -1
+<<<<<<< HEAD
     
     if start_num == 0:
+=======
+    elif start_num == 0:
+>>>>>>> refs/remotes/origin/main
         return 0
     elif start_num == 1:
         return 1
